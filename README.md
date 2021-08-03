@@ -1,6 +1,8 @@
 # dhall-nginx
 
-**This is still in a really early stage. PRs/issues are welcome.**
+Have a look at https://github.com/denizdogan/dhall-nginx for a more complete/maintained version.
+
+I doubt that I'll be working on this anytime soon, if you've any issues/PRs you want to submit I'll have a look at them regardless.
 
 ## Tryout some of the examples
 
